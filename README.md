@@ -1,3 +1,3 @@
-# Otis
+# OTIS
 
-# I want Otis to be the perfect personal assistant.
+Otis will be an AI personal assistant.
