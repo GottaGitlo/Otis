@@ -1,3 +1,3 @@
-# Greetings
+# Otis
 
-# This will be the first function for Otis. I want him to be kind and helpful and it is easiest to write.
+# I want Otis to be the perfect personal assistant.
