@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+/*Traditionally, everybody's first program should be "Hello, World."
+It's symbolically introducing yourself, physically and mentally into cyberspace.
+I know this because I was taught how to code. I knew how to code.
+I used to design my own webpages when I was 12-13, and I was trying to read
+HTML source code in the browser. I remember how these codes can get deeply personal.*/
+
+int main() {
+  printf("Hello, World.") ;
+  return 0;
+}
