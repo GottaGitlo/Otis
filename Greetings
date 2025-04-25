@@ -1,4 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
+#include <ctype.h>
 
 /*Traditionally, everybody's first program should be "Hello, World."/n
 It's symbolically introducing yourself, physically and mentally into cyberspace./n
@@ -10,7 +14,7 @@ int main() {
 
   printf("Hello, World.") ;
 
-//Maybe I should start incorporating my favorite phrases and quotes.//
+//Maybe I should start incorporating my favorite phrases and quotes.
 
   printf("Sometimes you have to go around a wall and come back with better tools.")
   printf("Does the wall always have to come down?")
@@ -25,8 +29,18 @@ convenient for me to be on windows. However, everytime I hit same wall trying to
 out of windows. I could never get the damn gcc to work on windows. I could follow a/n
 guide completely, it either doesn't auto-install or it doesn't have an installer/n
 or there's some missing file, the path is wrong, etc etc.n/n/
-
 Going back to my first lesson: Sometimes you gotta around the wall, comme back/n
 when you have better tools. Does the wall always have to come down?*/
+
+//I shouldn't skip around lessons. I'm building from scractch.
+
+//Define some variables, and complete some exercises.
+
+  int favnum = 5;
+
+  printf("%d", favnum);
+
+//5. Handy, Helpful, Sturdy, Square and Well-rounded
+
 
 }
