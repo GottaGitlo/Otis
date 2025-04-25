@@ -8,5 +8,24 @@ HTML source code in the browser. I remember how these codes can get deeply perso
 
 int main() {
   printf("Hello, World.") ;
+
+//Maybe I should start incorporating my favorite phrases and quotes.//
+
+  printf("Sometimes you have to go around a wall and come back with better tools.")
+  printf("Does the wall always have to come down?")
+
   return 0;
+
+
+/*My first lesson as a coder. If it feels like you can't get through it's because/n
+there's a wall there. I've broken out of windows a long time ago, but being/n
+completely overwhelmed by linux commands, and mostly a gamer, it was more /n
+convenient for me to be on windows. However, everytime I hit same wall trying to break/n
+out of windows. I could never get the damn gcc to work on windows. I could follow a/n
+guide completely, it either doesn't auto-install or it doesn't have an installer/n
+or there's some missing file, the path is wrong, etc etc.n/n/
+
+Going back to my first lesson: Sometimes you gotta around the wall, comme back/n
+when you have better tools. Does the wall always have to come down?*/
+
 }
