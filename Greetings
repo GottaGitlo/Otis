@@ -19,7 +19,7 @@ int main() {
 
 /*My first lesson as a coder. If it feels like you can't get through it's because/n
 there's a wall there. I've broken out of windows a long time ago, but being/n
-completely overwhelmed by linux commands, and mostly a gamer, it was more /n
+completely overwhelmed by linux commands, and being mostly a gamer, it was more/n
 convenient for me to be on windows. However, everytime I hit same wall trying to break/n
 out of windows. I could never get the damn gcc to work on windows. I could follow a/n
 guide completely, it either doesn't auto-install or it doesn't have an installer/n
