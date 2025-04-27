@@ -4,10 +4,10 @@
 #include <math.h>
 #include <ctype.h>
 
-/*Traditionally, everybody's first program should be "Hello, World."/n
-It's symbolically introducing yourself, physically and mentally into cyberspace./n
-I know this because I was taught how to code. I knew how to code./n
-I used to design my own webpages when I was 12-13, and I would try to read/n
+/*Traditionally, everybody's first program should be "Hello, World."\n
+It's symbolically introducing yourself, physically and mentally into cyberspace.\n
+I know this because I was taught how to code. I knew how to code.\n
+I used to design my own webpages when I was 12-13, and I would try to read\n
 HTML source code in the browser. I remember how these codes can get deeply personal.*/
 
 int main() {
@@ -22,14 +22,14 @@ int main() {
   return 0;
 
 
-/*My first lesson as a coder. If it feels like you can't get through, it's because/n
-there's a wall there. I've broken out of windows a long time ago, but being/n
-completely overwhelmed by linux commands, and being mostly a gamer, it was more/n
-convenient for me to be on windows. However, everytime, I hit same wall trying to break/n
-out of windows. I could never get the damn gcc to work on windows. I could follow a/n
-guide completely, it either doesn't auto-install or it doesn't have an installer/n
-or there's some missing file, the path is wrong, etc etc.n/n/
-Going back to my first lesson: Sometimes you gotta around the wall, comme back/n
+/*My first lesson as a coder. If it feels like you can't get through, it's because\n
+there's a wall there. I've broken out of windows a long time ago, but being\n
+completely overwhelmed by linux commands, and being mostly a gamer, it was more\n
+convenient for me to be on windows. However, everytime, I hit same wall trying to break\n
+out of windows. I could never get the damn gcc to work on windows. I could follow a\n
+guide completely, it either doesn't auto-install or it doesn't have an installer\n
+or there's some missing file, the path is wrong, etc etc.\n\n
+Going back to my first lesson: Sometimes you gotta around the wall, comme back\n
 when you have better tools. Does the wall always have to come down?*/
 
 //I shouldn't skip around lessons. I'm building from scractch.
@@ -42,7 +42,7 @@ when you have better tools. Does the wall always have to come down?*/
 
 //5. Handy, Helpful, Sturdy, Square and Well-rounded
 
-/*Speaking of deeply personal, I remember that personal things aren't meant to be shared./n
+/*Speaking of deeply personal, I remember that personal things aren't meant to be shared.\n
 From this point on, OTIS and Silverton will be kept private.*/
 
 
